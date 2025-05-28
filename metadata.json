@@ -1,0 +1,5 @@
+{
+  "name": "AI Chat Assistant (n8n)",
+  "description": "A web application that allows users to chat with an AI assistant powered by an n8n backend.",
+  "requestFramePermissions": []
+}
